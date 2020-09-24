@@ -1,0 +1,71 @@
+*   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+*   *   *   *   *   *   *   *   *   *   *   * (O)-R-I-O-N---B-E-L-T *   *   *   *   *   *   *   *   *   *
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+*   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+- - - - - - - - - - - - - - - - - - - - - - - - - - - Best viewed in Notepad with font Courier New, 9 pt.
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::INTRODUCTION TO ORION BELT
+
+Orion Belt is an application that comment your Visual Basic projects. It has many features to make your
+works easier and your project nicer. With comments, people who see the code for the first time will have
+no hard time reading your project. Comments is one of the essential parts in structure (Non-Spaghetti)
+programming, and it's extremely necessary for big projects. But why waste your valuable time thinking,
+designing and commenting your code? Try ORION BELT! It's fast, easy, reliable and after all, it's FREE!!
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::SUPPORTED FEATURES
+
+Orion Belt has many features to support developer's needs. Below is what can be done/added to your
+project. In the brackets is version number the feature was added.
+
+Add related document comments to the project (1.0)
+Add Module-Level comments to describe the module (1.0)
+Add Procedures-Level comments for each procedures (1.0)
+Ability to turn any part of the comment-adding off (1.0)
+Decorations and styles for the comments added (1.0)
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::VERSION HISTORY
+
+What Have Been Improved?
+========================
+
+Version 1.0
+~~~~~~~~~~~
+Well, of course everything is new, this is the first version isn't it!
+
+
+Expecting for the Next Version[s]
+=================================
+
+Version 1.5
+~~~~~~~~~~~
+- Auto-Determine Project Information (Some)
+- Sealing the Orion information file w/ project
+
+Version 2.0
+~~~~~~~~~~~
+- Better decorations
+- Ability to add Err_Handlers(Error Handlers) *COOL*
+- Status reporting (not just 'fake' progressbar as seen in this version ^_^")
+- Command Commenting //HILIGHT//
+
+Version 3.0
+~~~~~~~~~~~
+- Even better decorations
+- Ability to add Developer-Reporting-Through-E-Mails Err_Handlers //HILIGHT//
+- More Commenting Options *COOL*
+- More Command Commenting
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::CREDITS
+
+As you might have read that this program is free, and therefore can be distributed for free as long as
+you do not sell it for profit and there's still my name on it. Every project commented by Orion Belt will
+automatically has an 'Orion Belt' credit therefore please don't remove it as long as the commented
+project is being distributed as a source code. I've spend months on this project so please don't just
+take it, use it and say you wrote it. Thank you for your co-operation. Any comments, good or bad, would
+be greatly appreciated. Please don't forget to vote for my project!
